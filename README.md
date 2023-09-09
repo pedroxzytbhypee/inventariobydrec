@@ -1,0 +1,2 @@
+# inventariobydrec
+Inventario
